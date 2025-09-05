@@ -25,3 +25,11 @@ Collecting ADA race results manually requires repeatedly copying and pasting row
 - Structured data storage in SQLite.  
 - Cleaning and transformation workflows to create analysis-ready data.  
 - Scalable for handling thousands of race result records.  
+
+## Visualizations
+Explore the interactive Tableau dashboards here:  
+[5K@ADA Race Results](https://public.tableau.com/views/5KADAResults/5KADARaceResults?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Article at JCS Analytics
+**Adapting the 5K@ADA Race Results Project for 2025**  
+https://jcsanalytics.com/index.php/adapting-the-5k-ada-race-results-project-for-2025
